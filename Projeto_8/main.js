@@ -11,7 +11,7 @@ else{
 }
 */
 
-let grade = prompt("Digite a nota o aluno: ");
+let grade = prompt("Digite a nota do aluno: ");
 
 if (grade > 100) {
   alert("Nota Invalida");
